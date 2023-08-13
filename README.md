@@ -1,27 +1,23 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="40px">
 
-# I'm Sebastián Goiburo, 
+# Soy Sebastián Goiburo, 
 
-Web developer with experience in communication 👨🏻‍💻 
+Desarrollador Full Stack Java 👨🏻‍💻 
 
-### 💼  Things that I'm currently working on: 
-Things I'm currently working on:
-* Development of an application to share books
-* Being a tutor in a Data Analysis course
-* I take a React online course on Udemy
-* I write about the benefits of meditation
+### 💼  Actualmente estoy: 
+* Desarrollando sitios web y tiendas virtuales
+* Creando contenido para Comunicación y Marketing Digital
+* Especializándome en Desarrollo de Aplicaciones en CoderHouse
+* Estudiando sobre emociones positivas y practicando la meditación
 * 🔜
 
-### 🌱 Challenges that I’m currently challenging myself:
-Challenges I am currently challenging myself:
-* I investigate how to combine my knowledge in language, development and communication
-* I read about how to improve people's quality of life through meditation
-* Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
-* Workout 3 days in a row and take a day break
-* I learn to simplify my life to the maximum 
-* 🔜
-
- 
+### 🌱 Conocimientos:
+* Desarrollo web: HTML5, CCS3, Javascript | Wordpress
+* Desarrollador Backend: POO | UML| JAVA | Spring, Spring Security, JPA, JDBC | SQL, My Sql | PostMan
+* Control de Versiones: GIT | GitHub
+* Análisis de Datos: Excel | PowerBi
+* Diseño gráfico: Adobe Illustrator | Gimp | Canva
+  
  **Languages and Frameworks:**
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" alt="Java" width="40" height="40"/></code>&nbsp;
