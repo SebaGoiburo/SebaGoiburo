@@ -13,7 +13,7 @@ Desarrollador Full Stack Java 👨🏻‍💻
 
 ### 🌱 Conocimientos:
 * Desarrollo web: HTML5, CCS3, Javascript | Wordpress
-* Desarrollador Backend: POO | UML| JAVA | Spring, Spring Security, JPA, JDBC | SQL, My Sql | PostMan
+* Desarrollador Backend: JAVA | POO | UML | Spring, SpringBoot, Spring Security, JPA, JDBC | SQL, My Sql | PostMan
 * Control de Versiones: GIT | GitHub
 * Análisis de Datos: Excel | PowerBi
 * Diseño gráfico: Adobe Illustrator | Gimp | Canva
