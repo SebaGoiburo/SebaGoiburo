@@ -4,10 +4,10 @@
 
 Desarrollador Full Stack Java 👨🏻‍💻 
 
-### 💼  Actualmente estoy: 
+### 💼  Actualmente estoy:
+* Especializándome en Desarrollo de Aplicaciones en CODERHOUSE
 * Desarrollando sitios web y tiendas virtuales
 * Creando contenido para Comunicación y Marketing Digital
-* Especializándome en Desarrollo de Aplicaciones en CoderHouse
 * Estudiando sobre emociones positivas y practicando la meditación
 * 🔜
 
